@@ -36,7 +36,7 @@ print()
 
 count = 1
 while count<=rounds:
-    sleep(0.7)
+    sleep(0.5)
     console.print(f"[bold]ROUND {count}[bold]")
     count = count + 1
     pick = choose()
